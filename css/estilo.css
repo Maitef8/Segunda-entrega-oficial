@@ -1,0 +1,40 @@
+.world{
+    text-align: center;
+    color: darkblue;
+}
+
+.degrade{
+    background: linear-gradient(to right, #393DC1,#0C0D51,#04052A);
+}
+h3{
+    text-align: center;
+    color: white;
+    font-weight: 10px;
+}
+.mb-3{
+    color: white;
+}
+
+.clase1 {
+    text-align: center;
+    
+}
+.clase2{
+    text-align: center;
+
+}
+.receta1 {
+    text-align: center;
+}
+.video{
+    text-align: center;
+}
+.degree2{
+    background: linear-gradient(to right,#D7F022, #FFA200,#FF3600 );
+}
+
+.derecho{
+    text-align: center;
+}
+
+
