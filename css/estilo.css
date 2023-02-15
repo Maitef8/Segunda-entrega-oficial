@@ -153,3 +153,31 @@ margin: auto;
     color: white;
     text-align: center;
 }
+.banner{
+    text-align: center;
+}
+
+
+
+@media (max-width:600px){
+    .banner{color: #FF3600;
+        
+    }
+}
+
+.quien{
+    text-align: center;
+    color: #0C0D51;
+}
+.somos{
+    text-align: center;
+    color: #94ABE3;
+
+}
+.adios{
+    text-align: center;
+    color: #393DC1;
+}
+.degradee{
+    background: linear-gradient(to right, #58DFF5,#2256D8,#7300FE);
+}
