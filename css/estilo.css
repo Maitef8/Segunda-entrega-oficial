@@ -107,3 +107,49 @@ h3 {
     text-align: center;
     color: #04052A;
 }
+
+.hoteles{
+    text-align: center;
+    color: white;
+}
+
+.degrade4{
+    background: linear-gradient(to right, #222222,#000000,#F1EA48,#151514);
+}
+
+.img2{
+    display: block;
+    margin: auto;
+}
+
+.dubai{
+    text-align: center;
+    color: white;
+}
+.Burj{
+    display: block;
+    margin: auto;
+}
+.españa{
+    text-align: center;
+    color: white;
+}
+.esp{
+    display: block;
+margin: auto;
+}
+.con{
+    text-align: center;
+    color: white;
+}
+.tur5{
+    display: block;
+    margin: auto;
+}
+.unos {
+    color: white;
+}
+.hñ{
+    color: white;
+    text-align: center;
+}
