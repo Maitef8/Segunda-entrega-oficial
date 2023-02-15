@@ -46,3 +46,14 @@ h3 {
 
 
 
+.item{
+    text-align: center;
+}
+.item2{
+    text-align: center;
+}
+
+.img{
+    display: block;
+    margin: auto;
+}
