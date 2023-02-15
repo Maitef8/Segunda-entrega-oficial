@@ -95,3 +95,15 @@ h3 {
     color: white;
     text-align: center;
 }
+.pais{
+    text-align: center;
+}
+
+.degrade3{
+    background: linear-gradient(to right, #94ABE3,#94D2E3,#BFBFBF);
+}
+
+.top{
+    text-align: center;
+    color: #04052A;
+}
