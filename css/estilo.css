@@ -48,9 +48,11 @@ h3 {
 
 .item{
     text-align: center;
+    color: white;
 }
 .item2{
     text-align: center;
+    color: white;
 }
 
 .img{
@@ -58,3 +60,38 @@ h3 {
     margin: auto;
 }
 
+.degrade2{
+    background: linear-gradient(to right, #393DC1, #0C0D51, #04052A);
+
+}
+
+.visa{
+    color: white;
+}
+.pasaporte{
+    color: white;
+}
+.valija{
+    color: white;
+}
+.asientos{
+    color: white;
+    
+}
+
+.uno1{
+    color: white;
+}
+.dos{
+    color: white;
+}
+.tres{
+    color: white;
+}
+.cuatro{
+    color: white;
+}
+.derecho2 {
+    color: white;
+    text-align: center;
+}
