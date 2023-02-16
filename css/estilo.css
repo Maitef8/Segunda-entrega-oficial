@@ -181,3 +181,20 @@ margin: auto;
 .degradee{
     background: linear-gradient(to right, #58DFF5,#2256D8,#7300FE);
 }
+
+body{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
+
+@media(max-width:600px){
+    .derecho{
+        color: #7300FE;
+    }
+    .footer5{
+        color: #58DFF5;
+    }
+}
