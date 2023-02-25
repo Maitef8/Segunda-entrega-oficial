@@ -158,13 +158,6 @@ margin: auto;
 }
 
 
-
-@media (max-width:600px){
-    .banner{color: #FF3600;
-        
-    }
-}
-
 .quien{
     text-align: center;
     color: #0C0D51;
@@ -187,14 +180,12 @@ body{
     padding: 20px;
 }
 
-
-
-
-@media(max-width:600px){
-    .derecho{
-        color: #7300FE;
-    }
-    .footer5{
-        color: #58DFF5;
-    }
+.d-flex{
+    display: flex;
+    margin: right;
 }
+
+
+
+
+
