@@ -46,146 +46,168 @@ h3 {
 
 
 
-.item{
-    text-align: center;
-    color: white;
-}
-.item2{
+.item {
     text-align: center;
     color: white;
 }
 
-.img{
+.item2 {
+    text-align: center;
+    color: white;
+}
+
+.img {
     display: block;
     margin: auto;
 }
 
-.degrade2{
+.degrade2 {
     background: linear-gradient(to right, #393DC1, #0C0D51, #04052A);
 
 }
 
-.visa{
+.visa {
     color: white;
-}
-.pasaporte{
-    color: white;
-}
-.valija{
-    color: white;
-}
-.asientos{
-    color: white;
-    
 }
 
-.uno1{
+.pasaporte {
     color: white;
 }
-.dos{
+
+.valija {
     color: white;
 }
-.tres{
+
+.asientos {
+    color: white;
+
+}
+
+.uno1 {
     color: white;
 }
-.cuatro{
+
+.dos {
     color: white;
 }
+
+.tres {
+    color: white;
+}
+
+.cuatro {
+    color: white;
+}
+
 .derecho2 {
     color: white;
     text-align: center;
 }
-.pais{
+
+.pais {
     text-align: center;
 }
 
-.degrade3{
-    background: linear-gradient(to right, #94ABE3,#94D2E3,#BFBFBF);
+.degrade3 {
+    background: linear-gradient(to right, #94ABE3, #94D2E3, #BFBFBF);
 }
 
-.top{
+.top {
     text-align: center;
     color: #04052A;
 }
 
-.hoteles{
+.hoteles {
     text-align: center;
     color: white;
 }
 
-.degrade4{
-    background: linear-gradient(to right, #222222,#000000,#F1EA48,#151514);
+.degrade4 {
+    background: linear-gradient(to right, #222222, #000000, #F1EA48, #151514);
 }
 
-.img2{
+.img2 {
     display: block;
     margin: auto;
 }
 
-.dubai{
+.dubai {
     text-align: center;
     color: white;
 }
-.Burj{
+
+.Burj {
     display: block;
     margin: auto;
+    height: 500px;
+    width: 700px;
 }
-.españa{
+
+.españa {
     text-align: center;
     color: white;
 }
-.esp{
-    display: block;
-margin: auto;
-}
-.con{
-    text-align: center;
-    color: white;
-}
-.tur5{
+
+.esp {
     display: block;
     margin: auto;
+    height: 500px;
+    width: 700px;
+  
 }
+
+.con {
+    text-align: center;
+    color: white;
+}
+
+.tur5 {
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 700px;
+}
+
 .unos {
     color: white;
 }
-.hñ{
+
+.hñ {
     color: white;
     text-align: center;
 }
-.banner{
+
+.banner {
     text-align: center;
 }
 
 
-.quien{
+.quien {
     text-align: center;
     color: #0C0D51;
 }
-.somos{
+
+.somos {
     text-align: center;
     color: #94ABE3;
 
 }
-.adios{
+
+.adios {
     text-align: center;
     color: #393DC1;
 }
-.degradee{
-    background: linear-gradient(to right, #58DFF5,#2256D8,#7300FE);
+
+.degradee {
+    background: linear-gradient(to right, #58DFF5, #2256D8, #7300FE);
 }
 
-body{
+body {
     margin: 20px;
     padding: 20px;
 }
 
-.d-flex{
+.d-flex {
     display: flex;
     margin: right;
 }
-
-
-
-
-
