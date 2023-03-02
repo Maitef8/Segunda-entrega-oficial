@@ -1,3 +1,4 @@
+/* index */
 .world {
     text-align: center;
     color: darkblue;
@@ -16,7 +17,8 @@ h3 {
 .mb-3 {
     color: white;
 }
-
+/* ///////////////////////// */
+/* comidas tipicas */
 .clase1 {
     text-align: center;
 
@@ -43,8 +45,8 @@ h3 {
     text-align: center;
 }
 
-
-
+/* ///////////////// */
+/* recomendaciones */
 
 .item {
     text-align: center;
@@ -103,7 +105,8 @@ h3 {
     color: white;
     text-align: center;
 }
-
+/* //////////// */
+/* paises */
 .pais {
     text-align: center;
 }
@@ -116,7 +119,8 @@ h3 {
     text-align: center;
     color: #04052A;
 }
-
+/* ////////// */
+/* Hoteles */
 .hoteles {
     text-align: center;
     color: white;
@@ -176,7 +180,8 @@ h3 {
     color: white;
     text-align: center;
 }
-
+/* /////// */
+/* quienes somos */
 .banner {
     text-align: center;
 }
@@ -201,22 +206,12 @@ h3 {
 .degradee {
     background: linear-gradient(to right, #58DFF5, #2256D8, #7300FE);
 }
-
+/* ////// */
 body {
     margin: 20px;
     padding: 20px;
 }
 
-.d-flex {
-
-    display: flex;
-    margin: right;
-}
-
-.avion{
-    height: 50px;
-    width: 100px;
-}
 .color{
     background: linear-gradient(to right, #101C3F,#101C3F,black)
 }
@@ -224,6 +219,8 @@ body {
     height: 100px;
     width: 100px;
 }
+
+
 
 
 
