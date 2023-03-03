@@ -34,7 +34,17 @@ h3 {
 }
 
 .video {
-    text-align: center;
+    overflow: hidden;
+    padding-bottom:400px ;
+    position: relative;
+    height: 0;
+}
+.video iframe{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
 
 .degree2 {
@@ -133,6 +143,7 @@ h3 {
 .img2 {
     display: block;
     margin: auto;
+    width: 50%;
 }
 
 .dubai {
@@ -143,8 +154,8 @@ h3 {
 .Burj {
     display: block;
     margin: auto;
-    height: 500px;
-    width: 700px;
+    height: 50%;
+    width: 70%;
 }
 
 .españa {
@@ -155,8 +166,8 @@ h3 {
 .esp {
     display: block;
     margin: auto;
-    height: 500px;
-    width: 700px;
+    height: 50%;
+    width: 70%;
   
 }
 
@@ -168,8 +179,8 @@ h3 {
 .tur5 {
     display: block;
     margin: auto;
-    height: 500px;
-    width: 700px;
+    height: 50%;
+    width: 70%;
 }
 
 .unos {
