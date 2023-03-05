@@ -17,6 +17,10 @@ h3 {
 .mb-3 {
     color: white;
 }
+.world2{
+    text-align: center;
+    color: white;
+}
 /* ///////////////////////// */
 /* comidas tipicas */
 .clase1 {
@@ -71,6 +75,7 @@ h3 {
 .img {
     display: block;
     margin: auto;
+    width: 50%;
 }
 
 .degrade2 {
@@ -187,10 +192,8 @@ h3 {
     color: white;
 }
 
-.hñ {
-    color: white;
-    text-align: center;
-}
+
+
 /* /////// */
 /* quienes somos */
 .banner {
@@ -230,6 +233,9 @@ body {
     height: 100px;
     width: 100px;
 }
+.hñ {
+    color: white;
+    text-align: center;}
 
 
 
