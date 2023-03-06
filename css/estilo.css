@@ -1,243 +1,227 @@
-/* index */
+@charset "UTF-8";
 .world {
-    text-align: center;
-    color: darkblue;
+  text-align: center;
+  color: darkblue;
 }
 
-.degrade {
-    background: linear-gradient(to right, #393DC1, #0C0D51, #04052A);
+.world2 {
+  text-align: center;
+  color: white;
 }
 
-h3 {
-    text-align: center;
-    color: white;
-    font-weight: 10px;
-}
-
-.mb-3 {
-    color: white;
-}
-.world2{
-    text-align: center;
-    color: white;
-}
-/* ///////////////////////// */
-/* comidas tipicas */
 .clase1 {
-    text-align: center;
-
+  text-align: center;
 }
 
 .clase2 {
-    text-align: center;
-
+  text-align: center;
 }
 
 .receta1 {
-    text-align: center;
+  text-align: center;
 }
 
 .video {
-    overflow: hidden;
-    padding-bottom:400px ;
-    position: relative;
-    height: 0;
+  overflow: hidden;
+  padding-bottom: 400px;
+  position: relative;
+  height: 0;
 }
-.video iframe{
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-}
-
-.degree2 {
-    background: linear-gradient(to right, #D7F022, #FFA200, #FF3600);
+.video iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
 
 .derecho {
-    text-align: center;
+  text-align: center;
 }
 
-/* ///////////////// */
-/* recomendaciones */
-
 .item {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
 
 .item2 {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
 
 .img {
-    display: block;
-    margin: auto;
-    width: 50%;
-}
-
-.degrade2 {
-    background: linear-gradient(to right, #393DC1, #0C0D51, #04052A);
-
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 .visa {
-    color: white;
+  color: white;
 }
 
 .pasaporte {
-    color: white;
+  color: white;
 }
 
 .valija {
-    color: white;
+  color: white;
 }
 
 .asientos {
-    color: white;
-
+  color: white;
 }
-
-.uno1 {
-    color: white;
-}
-
-.dos {
-    color: white;
-}
-
-.tres {
-    color: white;
-}
-
-.cuatro {
-    color: white;
-}
-
-.derecho2 {
-    color: white;
-    text-align: center;
-}
-/* //////////// */
-/* paises */
-.pais {
-    text-align: center;
-}
-
-.degrade3 {
-    background: linear-gradient(to right, #94ABE3, #94D2E3, #BFBFBF);
-}
-
-.top {
-    text-align: center;
-    color: #04052A;
-}
-/* ////////// */
-/* Hoteles */
-.hoteles {
-    text-align: center;
-    color: white;
-}
-
-.degrade4 {
-    background: linear-gradient(to right, #222222, #000000, #F1EA48, #151514);
-}
-
-.img2 {
-    display: block;
-    margin: auto;
-    width: 50%;
-}
-
-.dubai {
-    text-align: center;
-    color: white;
-}
-
-.Burj {
-    display: block;
-    margin: auto;
-    height: 50%;
-    width: 70%;
-}
-
-.españa {
-    text-align: center;
-    color: white;
-}
-
-.esp {
-    display: block;
-    margin: auto;
-    height: 50%;
-    width: 70%;
-  
-}
-
-.con {
-    text-align: center;
-    color: white;
-}
-
-.tur5 {
-    display: block;
-    margin: auto;
-    height: 50%;
-    width: 70%;
-}
-
-.unos {
-    color: white;
-}
-
-
-
-/* /////// */
-/* quienes somos */
-.banner {
-    text-align: center;
-}
-
 
 .quien {
-    text-align: center;
-    color: #0C0D51;
+  text-align: center;
+  color: #0C0D51;
 }
 
 .somos {
-    text-align: center;
-    color: #94ABE3;
-
+  text-align: center;
+  color: #94ABE3;
 }
 
 .adios {
-    text-align: center;
-    color: #393DC1;
+  text-align: center;
+  color: #393DC1;
+}
+
+.uno1 {
+  color: white;
+}
+
+.dos {
+  color: white;
+}
+
+.tres {
+  color: white;
+}
+
+.cuatro {
+  color: white;
+}
+
+.derecho2 {
+  color: white;
+  text-align: center;
+}
+
+.pais {
+  text-align: center;
+}
+
+.top {
+  text-align: center;
+  color: #04052A;
+}
+
+.hoteles {
+  text-align: center;
+  color: white;
+}
+
+.img2 {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+.dubai {
+  text-align: center;
+  color: white;
+}
+
+.Burj {
+  display: block;
+  margin: auto;
+  height: 50%;
+  width: 70%;
+}
+
+.españa {
+  text-align: center;
+  color: white;
+}
+
+.esp {
+  display: block;
+  margin: auto;
+  height: 50%;
+  width: 70%;
+}
+
+.con {
+  text-align: center;
+  color: white;
+}
+
+.tur5 {
+  display: block;
+  margin: auto;
+  height: 50%;
+  width: 70%;
+}
+
+.unos {
+  color: white;
+}
+
+.banner {
+  text-align: center;
+}
+
+.degrade {
+  background: linear-gradient(to right, #393DC1, #0C0D51, #04052A);
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-weight: 10px;
+}
+
+.degree2 {
+  background: linear-gradient(to right, #D7F022, #FFA200, #FF3600);
+}
+
+.degrade2 {
+  background: linear-gradient(to right, #393DC1, #0C0D51, #04052A);
+}
+
+.mb-3 {
+  color: white;
+}
+
+body {
+  margin: 20px;
+  padding: 20px;
+}
+
+.color {
+  background: linear-gradient(to right, #101C3F, #101C3F, black);
+}
+
+.logo1 {
+  height: 100px;
+  width: 100px;
+}
+
+.hñ {
+  color: white;
+  text-align: center;
 }
 
 .degradee {
-    background: linear-gradient(to right, #58DFF5, #2256D8, #7300FE);
-}
-/* ////// */
-body {
-    margin: 20px;
-    padding: 20px;
+  background: linear-gradient(to right, #58DFF5, #2256D8, #7300FE);
 }
 
-.color{
-    background: linear-gradient(to right, #101C3F,#101C3F,black)
+.degrade3 {
+  background: linear-gradient(to right, #94ABE3, #94D2E3, #BFBFBF);
 }
-.logo1{
-    height: 100px;
-    width: 100px;
+
+.degrade4 {
+  background: linear-gradient(to right, #222222, #000000, #F1EA48, #151514);
 }
-.hñ {
-    color: white;
-    text-align: center;}
 
-
-
-
-
+/*# sourceMappingURL=estilo.css.map */
