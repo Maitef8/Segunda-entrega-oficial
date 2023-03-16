@@ -7,19 +7,7 @@
 .receta1 {
 	text-align: center;
 }
-.video {
-	overflow: hidden;
-	padding-bottom: 400px;
-	position: relative;
-	height: 0;
-	iframe {
-		left: 0;
-		top: 0;
-		height: 100%;
-		width: 100%;
-		position: absolute;
-	}
-}
+
 .derecho {
 	text-align: center;
 }
@@ -62,15 +50,14 @@
 	.uno1 {
 		color: $color_2;
 	}
-	.dos {
-		color: $color_2;
-	}
-	.tres {
-		color: $color_2;
-	}
-	.cuatro {
-		color: $color_2;
-	}
+	
+   .card:hover{
+	color: gray;
+	font-size: 1.5rem;
+    transition: all 0.5s;
+}
+   
+
 	.derecho2 {
 		color: $color_2;
 		text-align: center;
@@ -129,3 +116,32 @@
 	.banner {
 		text-align: center;
 	}
+     .video{
+		margin: auto;
+	 }
+    .receta{
+		text-align: center;
+	}
+   .comida{
+	font-size: 1rem;
+	color: black;
+	transition: all 0.5s;
+    text-align: center;
+	display: inline-block;
+	width: 400%;
+}
+    .comida:hover{
+		font-size:2rem ;
+		color: $color_2;
+	}
+
+
+
+
+	@media only screen and (max-width:700px) and (min-width:300px){
+		 .video iframe{
+			width: 99%;
+			height: 100%;
+		}
+	}
+	
