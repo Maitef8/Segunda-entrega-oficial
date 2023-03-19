@@ -1,11 +1,14 @@
 .clase1 {
 	text-align: center;
+	color: $color_2;
 }
 .clase2 {
 	text-align: center;
+	color: $color_2;
 }
 .receta1 {
 	text-align: center;
+	color:$color_2
 }
 
 .derecho {
@@ -68,47 +71,8 @@
 	
 	.top {
 		text-align: center;
-		color: $color_3;
-	}
-	.hoteles {
-		text-align: center;
 		color: $color_2;
-	}
-	
-	.img2 {
-		display: block;
-		margin: auto;
-		width: 50%;
-	}
-	.dubai {
-		text-align: center;
-		color: $color_2;
-	}
-	.Burj {
-		display: block;
-		margin: auto;
-		height: 50%;
-		width: 70%;
-	}
-	.españa {
-		text-align: center;
-		color: $color_2;
-	}
-	.esp {
-		display: block;
-		margin: auto;
-		height: 50%;
-		width: 70%;
-	}
-	.con {
-		text-align: center;
-		color: $color_2;
-	}
-	.tur5 {
-		display: block;
-		margin: auto;
-		height: 50%;
-		width: 70%;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
 	.unos {
 		color: $color_2;
@@ -121,19 +85,34 @@
 	 }
     .receta{
 		text-align: center;
+		color: $color_2;
 	}
    .comida{
-	font-size: 1rem;
-	color: black;
+	font-size: 150%;
+	color: $color_2;
 	transition: all 0.5s;
-    text-align: center;
-	display: inline-block;
 	width: 400%;
+	display: inline-block;
+	text-align: center;
 }
     .comida:hover{
 		font-size:2rem ;
-		color: $color_2;
+		color: rgb(0, 191, 255);
+	}  
+	
+    .boton{
+		text-align: center;
+		border-radius: 20px;
 	}
+	.cu{
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+
+
+
+
+
 
 
 
@@ -142,6 +121,10 @@
 		 .video iframe{
 			width: 99%;
 			height: 100%;
+		}
+		.comida{
+		 width: 50%;
+		 height: 50%;
 		}
 	}
 	
